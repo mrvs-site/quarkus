@@ -1,3 +1,3 @@
 # quarkus
 
-[x] SpringBoot
+- [x] SpringBoot
